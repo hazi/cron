@@ -1,0 +1,112 @@
+name: Daily Personalized News
+
+on:
+  schedule:
+    # 毎日 9:00 JST (0:00 UTC)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    inputs:
+      force_run:
+        description: "差分がなくても実行する"
+        required: false
+        default: "false"
+        type: boolean
+
+permissions:
+  contents: write
+  issues: write
+  id-token: write
+
+jobs:
+  collect-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Ensure cache directory exists
+        run: mkdir -p .cache
+
+      - name: Generate Daily News
+        uses: anthropics/claude-code-action@v1
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: "--allowed-tools Bash,Read,Write,Edit,WebSearch,Glob,Grep"
+          prompt: |
+            # Daily Personalized News - 実行指示
+
+            ## Mission
+            毎日、指定されたテックブログの最新情報を収集し、PM × AI文脈で価値のある記事をGitHub Issueに投稿する。
+
+            ## 追加コンテキスト
+            - 今日の日付: ${{ github.event.repository.updated_at }}
+            - Force run: ${{ inputs.force_run }}
+            - Repository: ${{ github.repository }}
+
+            ## 重要: 情報収集方法
+            - **WebSearchを使用**: 各ブログのSearch Queryでニュースを検索
+            - **WebFetchは使用しない**: Bot検知で403エラーになるため
+            - 並列でWebSearchを実行して効率化
+
+            ## 巡回対象（Search Query）
+            - `Anthropic Claude news` (今月)
+            - `OpenAI GPT news` (今月)
+            - `Linear app product updates` (今月)
+            - `Lenny's Newsletter product management` (今月)
+            - `LayerX テックブログ` (今月)
+
+            ## 実行手順
+            1. `.cache/daily-news-last.json` を読み込む（なければ空として扱う）
+            2. WebSearchで各ブログの最新ニュースを検索（並列実行）
+            3. 新規記事を収集・リランキング（PM × AI関連度でスコアリング）
+            4. 新規記事がある場合のみ:
+               - GitHub Issueを作成
+               - キャッシュファイルを更新
+               - 変更をコミット
+            5. 新規記事がない場合:
+               - 「No new articles found」とログ出力して終了
+               - Issueは作成しない
+
+            ## Issue作成時のコマンド
+            ```bash
+            gh issue create \
+              --title "📰 Daily News - $(date +%Y-%m-%d)" \
+              --label "daily-news,automated" \
+              --body "$(cat /tmp/news-summary.md)"
+            ```
+
+            ## キャッシュ更新後のコミット
+            ```bash
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add .cache/daily-news-last.json
+            git commit -m "chore: update daily news cache [skip ci]"
+            git push
+            ```
+
+            ## 出力フォーマット（Issue Body）
+            ```markdown
+            ## Daily Tech News - YYYY-MM-DD
+
+            ### Top Picks (スコア上位3件)
+
+            #### 1. [記事タイトル](URL)
+            **Source**: ブログ名
+
+            📝 **概要**: 3-5文で要約
+
+            💡 **PMへの示唆**: 具体的なアクションにつなげる
+
+            ---
+            (以下同様)
+
+            ### Other Notable Articles
+            | Title | Source | One-liner |
+            |-------|--------|-----------|
+            | [Title](url) | Linear | 一行要約 |
+            ```
