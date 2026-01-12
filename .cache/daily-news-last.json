@@ -1,6 +1,41 @@
 {
-  "lastRun": "2026-01-11T00:00:00Z",
+  "lastRun": "2026-01-12T00:13:42Z",
   "articles": [
+    {
+      "title": "Linear Agent for Customer Conversations",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Anthropic adds Allianz to growing list of enterprise wins",
+      "url": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Introducing ChatGPT Health",
+      "url": "https://openai.com/index/introducing-chatgpt-health/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Product manager is an unfair role. So work unfairly",
+      "url": "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Claude Wants More Money for the AI War",
+      "url": "https://www.vice.com/en/article/anthropic-raising-investor-money-for-claude-ai-january-2026/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "GPT-5.2 Model Release",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
+    {
+      "title": "LayerX AI Agents in Production #1",
+      "url": "https://tech.layerx.co.jp/",
+      "source": "LayerX"
+    },
     {
       "title": "Anthropic's Claude Code transforms vibe coding",
       "url": "https://www.axios.com/2026/01/07/anthropics-claude-code-vibe-coding",
@@ -45,11 +80,6 @@
       "title": "Anthropic's Claude Code 2.1.0 arrives with smoother workflows and smarter agents",
       "url": "https://venturebeat.com/orchestration/claude-code-2-1-0-arrives-with-smoother-workflows-and-smarter-agents",
       "source": "Anthropic"
-    },
-    {
-      "title": "Introducing ChatGPT Health",
-      "url": "https://openai.com/index/introducing-chatgpt-health/",
-      "source": "OpenAI"
     },
     {
       "title": "Anthropic signs term sheet for $10 billion funding round at $350 billion valuation",
