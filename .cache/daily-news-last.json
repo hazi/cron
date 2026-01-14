@@ -1,9 +1,69 @@
 {
-  "lastRun": "2026-01-12T00:13:42Z",
+  "lastRun": "2026-01-12T00:13:54Z",
   "articles": [
+    {
+      "title": "Anthropic launches Claude Cowork, a file-managing AI agent",
+      "url": "https://fortune.com/2026/01/13/anthropic-claude-cowork-ai-agent-file-managing-threaten-startups/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic announces Claude for Healthcare following OpenAI's ChatGPT Health reveal",
+      "url": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "First impressions of Claude Cowork, Anthropic's general agent",
+      "url": "https://simonwillison.net/2026/Jan/12/claude-cowork/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic's new Cowork tool offers Claude Code without the code",
+      "url": "https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Increases Healthcare Focus With New Claude Program",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-increases-medical-focus-with-new-claude-program/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "How Tolan builds voice-first AI with GPT-5.1",
+      "url": "https://openai.com/index/tolan/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Introducing OpenAI for Healthcare",
+      "url": "https://openai.com/index/openai-for-healthcare/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
+      "url": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
+      "source": "OpenAI"
+    },
     {
       "title": "Linear Agent for Customer Conversations",
       "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Form Templates",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Figma Connector",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Warp Integration",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Workspace Owner Role (Enterprise)",
+      "url": "https://releasebot.io/updates/linear",
       "source": "Linear"
     },
     {
@@ -45,11 +105,6 @@
       "title": "OpenAI unveils ChatGPT Health",
       "url": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
       "source": "OpenAI"
-    },
-    {
-      "title": "Linear announces Form Templates and Team Permissions",
-      "url": "https://linear.app/now",
-      "source": "Linear"
     },
     {
       "title": "Anthropic reportedly raising $10B at $350B valuation",
