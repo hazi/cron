@@ -1,6 +1,51 @@
 {
-  "lastRun": "2026-01-12T00:13:54Z",
+  "lastRun": "2026-01-14T00:13:44Z",
   "articles": [
+    {
+      "title": "LLMによる「非定型見積書の明細抽出タスク」の精度を約80%→約95%に改善した話",
+      "url": "https://tech.layerx.co.jp/entry/2026/01/14/125350",
+      "source": "LayerX"
+    },
+    {
+      "title": "Linear Agent for Customer Conversations",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Form Templates",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Figma Connector",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Warp Integration",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Workspace Owner Role (Enterprise)",
+      "url": "https://releasebot.io/updates/linear",
+      "source": "Linear"
+    },
+    {
+      "title": "Anthropic joins OpenAI's push into health care with new Claude tools",
+      "url": "https://www.nbcnews.com/tech/tech-news/anthropic-health-care-rcna252872",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Extends Claude into Healthcare",
+      "url": "https://erp.today/anthropic-extends-claude-into-healthcare-matching-openais-health-push-with-record-aware-hipaa-ready-tools/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "GPT-5.2 Model Release",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
     {
       "title": "Anthropic launches Claude Cowork, a file-managing AI agent",
       "url": "https://fortune.com/2026/01/13/anthropic-claude-cowork-ai-agent-file-managing-threaten-startups/",
@@ -42,31 +87,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "Linear Agent for Customer Conversations",
-      "url": "https://linear.app/now",
-      "source": "Linear"
-    },
-    {
-      "title": "Linear Form Templates",
-      "url": "https://linear.app/now",
-      "source": "Linear"
-    },
-    {
-      "title": "Linear Figma Connector",
-      "url": "https://linear.app/now",
-      "source": "Linear"
-    },
-    {
-      "title": "Linear Warp Integration",
-      "url": "https://linear.app/now",
-      "source": "Linear"
-    },
-    {
-      "title": "Linear Workspace Owner Role (Enterprise)",
-      "url": "https://releasebot.io/updates/linear",
-      "source": "Linear"
-    },
-    {
       "title": "Anthropic adds Allianz to growing list of enterprise wins",
       "url": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
       "source": "Anthropic"
@@ -85,11 +105,6 @@
       "title": "Claude Wants More Money for the AI War",
       "url": "https://www.vice.com/en/article/anthropic-raising-investor-money-for-claude-ai-january-2026/",
       "source": "Anthropic"
-    },
-    {
-      "title": "GPT-5.2 Model Release",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "source": "OpenAI"
     },
     {
       "title": "LayerX AI Agents in Production #1",
