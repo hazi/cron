@@ -1,6 +1,36 @@
 {
-  "lastRun": "2026-01-14T00:13:44Z",
+  "lastRun": "2026-01-15T00:14:02Z",
   "articles": [
+    {
+      "title": "GPT-5.2 Pro: OpenAI's Smartest Model Yet",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Linear × Warp Integration: AI Agent Delegation for Issue Management",
+      "url": "https://releasebot.io/updates/linear",
+      "source": "Linear"
+    },
+    {
+      "title": "Anthropic Economic Index: AI Usage Patterns Revealed",
+      "url": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenAI Bets Big on Audio as Silicon Valley Declares War on Screens",
+      "url": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "LayerX: 副業・業務委託エンジニア受け入れの実態とタスク設計のコツ",
+      "url": "https://tech.layerx.co.jp/entry/bakuraku-sidejob-readme",
+      "source": "LayerX"
+    },
+    {
+      "title": "ChatGPT macOS Voice Experience Retirement",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
     {
       "title": "LLMによる「非定型見積書の明細抽出タスク」の精度を約80%→約95%に改善した話",
       "url": "https://tech.layerx.co.jp/entry/2026/01/14/125350",
