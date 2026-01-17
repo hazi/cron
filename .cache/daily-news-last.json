@@ -1,6 +1,41 @@
 {
-  "lastRun": "2026-01-15T00:14:02Z",
+  "lastRun": "2026-01-16T00:14:10Z",
   "articles": [
+    {
+      "title": "Linear Agent for Customer Conversations",
+      "url": "https://releasebot.io/updates/linear",
+      "source": "Linear"
+    },
+    {
+      "title": "OpenAI invested in Merge Labs",
+      "url": "https://openai.com/news/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Netomi's lessons for scaling agentic systems into the enterprise",
+      "url": "https://openai.com/index/netomi/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI partnered with Cerebras",
+      "url": "https://openai.com/news/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Linear Warp Agent Integration",
+      "url": "https://releasebot.io/updates/linear",
+      "source": "Linear"
+    },
+    {
+      "title": "LayerX FDE Organization Update",
+      "url": "https://tech.layerx.co.jp/",
+      "source": "LayerX"
+    },
+    {
+      "title": "LayerX Analytics Engineer First 30 Days",
+      "url": "https://tech.layerx.co.jp/entry/analytics-engineer-first-30-days",
+      "source": "LayerX"
+    },
     {
       "title": "GPT-5.2 Pro: OpenAI's Smartest Model Yet",
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
@@ -35,11 +70,6 @@
       "title": "LLMによる「非定型見積書の明細抽出タスク」の精度を約80%→約95%に改善した話",
       "url": "https://tech.layerx.co.jp/entry/2026/01/14/125350",
       "source": "LayerX"
-    },
-    {
-      "title": "Linear Agent for Customer Conversations",
-      "url": "https://linear.app/now",
-      "source": "Linear"
     },
     {
       "title": "Linear Form Templates",
