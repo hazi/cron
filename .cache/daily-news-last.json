@@ -1,6 +1,21 @@
 {
-  "lastRun": "2026-01-17T00:12:33Z",
+  "lastRun": "2026-01-18T00:13:57Z",
   "articles": [
+    {
+      "title": "データ検索基盤チームの立ち上げ",
+      "url": "https://tech.layerx.co.jp/entry/2026/01/20/140000",
+      "source": "LayerX"
+    },
+    {
+      "title": "Anthropic Team Plan includes Claude Code",
+      "url": "https://releasebot.io/updates/anthropic/claude-code",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Sequoia Capital plans billion-dollar investment in Anthropic",
+      "url": "https://finance.yahoo.com/news/sequoia-capital-planning-billon-dollar-095547543.html",
+      "source": "Anthropic"
+    },
     {
       "title": "ChatGPT to start showing users ads based on their conversations",
       "url": "https://www.cnn.com/2026/01/16/tech/chatgpt-ads-openai",
