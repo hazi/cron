@@ -1,6 +1,36 @@
 {
-  "lastRun": "2026-01-21T00:13:18Z",
+  "lastRun": "2026-01-22T00:13:43Z",
   "articles": [
+    {
+      "title": "OpenAI Introduces Advertising Model with Go Tier",
+      "url": "https://www.cnn.com/2026/01/16/tech/chatgpt-ads-openai",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Linear Agent for Customer Conversations",
+      "url": "https://releasebot.io/updates/linear",
+      "source": "Linear"
+    },
+    {
+      "title": "OpenAI's First ChatGPT-Powered Device Coming 2026",
+      "url": "https://www.digitaltrends.com/computing/openai-executive-confirms-first-chatgpt-powered-device-is-coming-your-way-in-2026/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "GPT-5.2 Released",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Linear Form Templates",
+      "url": "https://releasebot.io/updates/linear",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Workspace Owner Role",
+      "url": "https://releasebot.io/updates/linear",
+      "source": "Linear"
+    },
     {
       "title": "Anthropic rewrites Claude's guiding principles—and reckons with the possibility of AI consciousness",
       "url": "https://fortune.com/2026/01/21/anthropic-claude-ai-chatbot-new-rules-safety-consciousness/",
@@ -50,11 +80,6 @@
       "title": "ChatGPT Go Tier at $8/month",
       "url": "https://www.cnn.com/2026/01/16/tech/chatgpt-ads-openai",
       "source": "OpenAI"
-    },
-    {
-      "title": "Linear Agent for Customer Conversations",
-      "url": "https://releasebot.io/updates/linear",
-      "source": "Linear"
     },
     {
       "title": "OpenAI invested in Merge Labs",
