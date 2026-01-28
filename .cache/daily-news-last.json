@@ -1,6 +1,101 @@
 {
-  "lastRun": "2026-01-26T00:13:08Z",
+  "lastRun": "2026-01-27T00:15:09Z",
   "articles": [
+    {
+      "title": "Claude Skills & Health Features Launch",
+      "url": "https://releasebot.io/updates/anthropic/claude",
+      "source": "Anthropic"
+    },
+    {
+      "title": "ChatGPT Go Tier Launch ($8/month with Ads)",
+      "url": "https://www.cnn.com/2026/01/16/tech/chatgpt-ads-openai",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Linear Agent for Customer Conversations",
+      "url": "https://releasebot.io/updates/linear",
+      "source": "Linear"
+    },
+    {
+      "title": "ChatGPT Health Launch",
+      "url": "https://openai.com/index/introducing-chatgpt-health/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI for Healthcare",
+      "url": "https://openai.com/index/openai-for-healthcare/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic Constitution Overhaul",
+      "url": "https://fortune.com/2026/01/21/anthropic-claude-ai-chatbot-new-rules-safety-consciousness/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic $10B Funding Round at $350B Valuation",
+      "url": "https://www.vice.com/en/article/anthropic-raising-investor-money-for-claude-ai-january-2026/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Claude Usage Limits Controversy",
+      "url": "https://www.theregister.com/2026/01/05/claude_devs_usage_limits/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Third-Party Harness Crackdown",
+      "url": "https://venturebeat.com/technology/anthropic-cracks-down-on-unauthorized-claude-usage-by-third-party-harnesses",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Irina Ghose India MD Appointment",
+      "url": "https://www.anthropic.com/news",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Linear Workspace Owner Role",
+      "url": "https://releasebot.io/updates/linear",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Warp Agent Integration",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Figma Integration",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Form Templates",
+      "url": "https://releasebot.io/updates/linear",
+      "source": "Linear"
+    },
+    {
+      "title": "Lenny's Newsletter Best of 2026",
+      "url": "https://www.lennysnewsletter.com/p/best-of-lennys-newsletter-2026",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Product Manager is an Unfair Role",
+      "url": "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "How Tolan Builds Voice-First AI with GPT-5.1",
+      "url": "https://openai.com/index/tolan/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "LayerX Data Search Infrastructure Team Launch",
+      "url": "https://tech.layerx.co.jp/archive/2026/01/20",
+      "source": "LayerX"
+    },
+    {
+      "title": "LayerX Contract Engineer Hiring Reality",
+      "url": "https://tech.layerx.co.jp/archive/2026/01/15",
+      "source": "LayerX"
+    },
     {
       "title": "Anthropic's Claude Cowork Launch: The Era of the Autonomous Digital Employee Begins",
       "url": "https://markets.financialcontent.com/stocks/article/tokenring-2026-1-26-anthropics-claude-cowork-launch-the-era-of-the-autonomous-digital-employee-begins",
@@ -22,11 +117,6 @@
       "source": "OpenAI"
     },
     {
-      "title": "Linear Agent for Customer Conversations",
-      "url": "https://releasebot.io/updates/linear",
-      "source": "Linear"
-    },
-    {
       "title": "OpenAI's First ChatGPT-Powered Device Coming 2026",
       "url": "https://www.digitaltrends.com/computing/openai-executive-confirms-first-chatgpt-powered-device-is-coming-your-way-in-2026/",
       "source": "OpenAI"
@@ -35,16 +125,6 @@
       "title": "GPT-5.2 Released",
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
       "source": "OpenAI"
-    },
-    {
-      "title": "Linear Form Templates",
-      "url": "https://releasebot.io/updates/linear",
-      "source": "Linear"
-    },
-    {
-      "title": "Linear Workspace Owner Role",
-      "url": "https://releasebot.io/updates/linear",
-      "source": "Linear"
     },
     {
       "title": "Anthropic rewrites Claude's guiding principles—and reckons with the possibility of AI consciousness",
@@ -75,251 +155,6 @@
       "title": "Claude Code just got updated with MCP Tool Search",
       "url": "https://venturebeat.com/orchestration/claude-code-just-got-updated-with-one-of-the-most-requested-user-features",
       "source": "Anthropic"
-    },
-    {
-      "title": "Anthropic appoints Irina Ghose as Managing Director of India",
-      "url": "https://www.anthropic.com/news",
-      "source": "Anthropic"
-    },
-    {
-      "title": "Linear Workspace Owner Role (Enterprise)",
-      "url": "https://releasebot.io/updates/linear",
-      "source": "Linear"
-    },
-    {
-      "title": "AI Agents in Production #1 (LayerX Event)",
-      "url": "https://tech.layerx.co.jp/",
-      "source": "LayerX"
-    },
-    {
-      "title": "ChatGPT Go Tier at $8/month",
-      "url": "https://www.cnn.com/2026/01/16/tech/chatgpt-ads-openai",
-      "source": "OpenAI"
-    },
-    {
-      "title": "OpenAI invested in Merge Labs",
-      "url": "https://openai.com/news/",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Netomi's lessons for scaling agentic systems into the enterprise",
-      "url": "https://openai.com/index/netomi/",
-      "source": "OpenAI"
-    },
-    {
-      "title": "OpenAI partnered with Cerebras",
-      "url": "https://openai.com/news/",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Linear Warp Agent Integration",
-      "url": "https://releasebot.io/updates/linear",
-      "source": "Linear"
-    },
-    {
-      "title": "LayerX FDE Organization Update",
-      "url": "https://tech.layerx.co.jp/",
-      "source": "LayerX"
-    },
-    {
-      "title": "LayerX Analytics Engineer First 30 Days",
-      "url": "https://tech.layerx.co.jp/entry/analytics-engineer-first-30-days",
-      "source": "LayerX"
-    },
-    {
-      "title": "GPT-5.2 Pro: OpenAI's Smartest Model Yet",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Linear × Warp Integration: AI Agent Delegation for Issue Management",
-      "url": "https://releasebot.io/updates/linear",
-      "source": "Linear"
-    },
-    {
-      "title": "Anthropic Economic Index: AI Usage Patterns Revealed",
-      "url": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
-      "source": "Anthropic"
-    },
-    {
-      "title": "OpenAI Bets Big on Audio as Silicon Valley Declares War on Screens",
-      "url": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
-      "source": "OpenAI"
-    },
-    {
-      "title": "LayerX: 副業・業務委託エンジニア受け入れの実態とタスク設計のコツ",
-      "url": "https://tech.layerx.co.jp/entry/bakuraku-sidejob-readme",
-      "source": "LayerX"
-    },
-    {
-      "title": "ChatGPT macOS Voice Experience Retirement",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "source": "OpenAI"
-    },
-    {
-      "title": "LLMによる「非定型見積書の明細抽出タスク」の精度を約80%→約95%に改善した話",
-      "url": "https://tech.layerx.co.jp/entry/2026/01/14/125350",
-      "source": "LayerX"
-    },
-    {
-      "title": "Linear Form Templates",
-      "url": "https://linear.app/now",
-      "source": "Linear"
-    },
-    {
-      "title": "Linear Figma Connector",
-      "url": "https://linear.app/now",
-      "source": "Linear"
-    },
-    {
-      "title": "Linear Warp Integration",
-      "url": "https://linear.app/now",
-      "source": "Linear"
-    },
-    {
-      "title": "Anthropic joins OpenAI's push into health care with new Claude tools",
-      "url": "https://www.nbcnews.com/tech/tech-news/anthropic-health-care-rcna252872",
-      "source": "Anthropic"
-    },
-    {
-      "title": "Anthropic Extends Claude into Healthcare",
-      "url": "https://erp.today/anthropic-extends-claude-into-healthcare-matching-openais-health-push-with-record-aware-hipaa-ready-tools/",
-      "source": "Anthropic"
-    },
-    {
-      "title": "GPT-5.2 Model Release",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Anthropic launches Claude Cowork, a file-managing AI agent",
-      "url": "https://fortune.com/2026/01/13/anthropic-claude-cowork-ai-agent-file-managing-threaten-startups/",
-      "source": "Anthropic"
-    },
-    {
-      "title": "Anthropic announces Claude for Healthcare following OpenAI's ChatGPT Health reveal",
-      "url": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
-      "source": "Anthropic"
-    },
-    {
-      "title": "First impressions of Claude Cowork, Anthropic's general agent",
-      "url": "https://simonwillison.net/2026/Jan/12/claude-cowork/",
-      "source": "Anthropic"
-    },
-    {
-      "title": "Anthropic's new Cowork tool offers Claude Code without the code",
-      "url": "https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/",
-      "source": "Anthropic"
-    },
-    {
-      "title": "Anthropic Increases Healthcare Focus With New Claude Program",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-increases-medical-focus-with-new-claude-program/",
-      "source": "Anthropic"
-    },
-    {
-      "title": "How Tolan builds voice-first AI with GPT-5.1",
-      "url": "https://openai.com/index/tolan/",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Introducing OpenAI for Healthcare",
-      "url": "https://openai.com/index/openai-for-healthcare/",
-      "source": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
-      "url": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Anthropic adds Allianz to growing list of enterprise wins",
-      "url": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
-      "source": "Anthropic"
-    },
-    {
-      "title": "Introducing ChatGPT Health",
-      "url": "https://openai.com/index/introducing-chatgpt-health/",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Product manager is an unfair role. So work unfairly",
-      "url": "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role",
-      "source": "Lenny's Newsletter"
-    },
-    {
-      "title": "Claude Wants More Money for the AI War",
-      "url": "https://www.vice.com/en/article/anthropic-raising-investor-money-for-claude-ai-january-2026/",
-      "source": "Anthropic"
-    },
-    {
-      "title": "LayerX AI Agents in Production #1",
-      "url": "https://tech.layerx.co.jp/",
-      "source": "LayerX"
-    },
-    {
-      "title": "Anthropic's Claude Code transforms vibe coding",
-      "url": "https://www.axios.com/2026/01/07/anthropics-claude-code-vibe-coding",
-      "source": "Anthropic"
-    },
-    {
-      "title": "OpenAI unveils ChatGPT Health",
-      "url": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Anthropic reportedly raising $10B at $350B valuation",
-      "url": "https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/",
-      "source": "Anthropic"
-    },
-    {
-      "title": "OpenAI and SoftBank partner with SB Energy",
-      "url": "https://openai.com/index/stargate-sb-energy-partnership/",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Best of Lenny's Newsletter 2026",
-      "url": "https://www.lennysnewsletter.com/p/best-of-lennys-newsletter-2026",
-      "source": "Lenny's Newsletter"
-    },
-    {
-      "title": "LayerX Corporate Engineering Platform Evolution 2025",
-      "url": "https://tech.layerx.co.jp/entry/corporate-engineering-platform-evolution-2025",
-      "source": "LayerX"
-    },
-    {
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "Anthropic"
-    },
-    {
-      "title": "Anthropic's Claude Code 2.1.0 arrives with smoother workflows and smarter agents",
-      "url": "https://venturebeat.com/orchestration/claude-code-2-1-0-arrives-with-smoother-workflows-and-smarter-agents",
-      "source": "Anthropic"
-    },
-    {
-      "title": "Anthropic signs term sheet for $10 billion funding round at $350 billion valuation",
-      "url": "https://www.cnbc.com/2026/01/07/anthropic-funding-term-sheet-valuation.html",
-      "source": "Anthropic"
-    },
-    {
-      "title": "Claude devs complain about surprise usage limits",
-      "url": "https://www.theregister.com/2026/01/05/claude_devs_usage_limits/",
-      "source": "Anthropic"
-    },
-    {
-      "title": "Anthropic's 'do more with less' bet has kept it at the AI frontier",
-      "url": "https://www.cnbc.com/2026/01/03/anthropic-daniela-amodei-do-more-with-less-bet.html",
-      "source": "Anthropic"
-    },
-    {
-      "title": "Anthropic cracks down on unauthorized Claude usage",
-      "url": "https://venturebeat.com/technology/anthropic-cracks-down-on-unauthorized-claude-usage-by-third-party-harnesses",
-      "source": "Anthropic"
-    },
-    {
-      "title": "OpenAI and SoftBank announce $1 billion investment in SB Energy",
-      "url": "https://www.cnbc.com/2026/01/09/openai-and-softbank-group-announce-1-billion-investment-in-sb-energy-.html",
-      "source": "OpenAI"
     }
   ]
 }
