@@ -1,6 +1,51 @@
 {
-  "lastRun": "2026-01-27T00:15:09Z",
+  "lastRun": "2026-01-28T00:13:48Z",
   "articles": [
+    {
+      "title": "GPT-5 Released: Doctoral-Level Intelligence Achieved",
+      "url": "https://markets.financialcontent.com/stocks/article/tokenring-2026-1-28-the-dawn-of-the-thinking-engine-openai-unleashes-gpt-5-to-achieve-doctoral-level-intelligence",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Linear Agent × Gong Integration",
+      "url": "https://releasebot.io/updates/linear",
+      "source": "Linear"
+    },
+    {
+      "title": "Anthropic Economic Index January 2026 Report",
+      "url": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
+      "source": "Anthropic"
+    },
+    {
+      "title": "ChatGPT Go Global Launch",
+      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic's 'do more with less' bet",
+      "url": "https://www.cnbc.com/2026/01/03/anthropic-daniela-amodei-do-more-with-less-bet.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Lenny's Newsletter Best of 2026",
+      "url": "https://www.lennysnewsletter.com/p/best-of-lennys-newsletter-2026",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "LayerX FDE Team 2026 Outlook",
+      "url": "https://tech.layerx.co.jp/archive/2026/01/15",
+      "source": "LayerX"
+    },
+    {
+      "title": "Linear Form Templates",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "GPT-5.2 Released",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
     {
       "title": "Claude Skills & Health Features Launch",
       "url": "https://releasebot.io/updates/anthropic/claude",
@@ -67,16 +112,6 @@
       "source": "Linear"
     },
     {
-      "title": "Linear Form Templates",
-      "url": "https://releasebot.io/updates/linear",
-      "source": "Linear"
-    },
-    {
-      "title": "Lenny's Newsletter Best of 2026",
-      "url": "https://www.lennysnewsletter.com/p/best-of-lennys-newsletter-2026",
-      "source": "Lenny's Newsletter"
-    },
-    {
       "title": "Product Manager is an Unfair Role",
       "url": "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role",
       "source": "Lenny's Newsletter"
@@ -97,12 +132,12 @@
       "source": "LayerX"
     },
     {
-      "title": "Anthropic's Claude Cowork Launch: The Era of the Autonomous Digital Employee Begins",
+      "title": "Anthropic's Claude Cowork Launch",
       "url": "https://markets.financialcontent.com/stocks/article/tokenring-2026-1-26-anthropics-claude-cowork-launch-the-era-of-the-autonomous-digital-employee-begins",
       "source": "Anthropic"
     },
     {
-      "title": "AI発信が加速した2025年をふりかえる：技術広報の視点で読み解く「Bet AI」の一年",
+      "title": "AI発信が加速した2025年をふりかえる",
       "url": "https://tech.layerx.co.jp/entry/techpr-retrospective-2025",
       "source": "LayerX"
     },
@@ -112,22 +147,12 @@
       "source": "Anthropic"
     },
     {
-      "title": "OpenAI Introduces Advertising Model with Go Tier",
-      "url": "https://www.cnn.com/2026/01/16/tech/chatgpt-ads-openai",
-      "source": "OpenAI"
-    },
-    {
       "title": "OpenAI's First ChatGPT-Powered Device Coming 2026",
       "url": "https://www.digitaltrends.com/computing/openai-executive-confirms-first-chatgpt-powered-device-is-coming-your-way-in-2026/",
       "source": "OpenAI"
     },
     {
-      "title": "GPT-5.2 Released",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "source": "OpenAI"
-    },
-    {
-      "title": "Anthropic rewrites Claude's guiding principles—and reckons with the possibility of AI consciousness",
+      "title": "Anthropic rewrites Claude's guiding principles",
       "url": "https://fortune.com/2026/01/21/anthropic-claude-ai-chatbot-new-rules-safety-consciousness/",
       "source": "Anthropic"
     },
@@ -147,12 +172,12 @@
       "source": "Anthropic"
     },
     {
-      "title": "ChatGPT to start showing users ads based on their conversations",
+      "title": "ChatGPT to start showing users ads",
       "url": "https://www.cnn.com/2026/01/16/tech/chatgpt-ads-openai",
       "source": "OpenAI"
     },
     {
-      "title": "Claude Code just got updated with MCP Tool Search",
+      "title": "Claude Code MCP Tool Search Update",
       "url": "https://venturebeat.com/orchestration/claude-code-just-got-updated-with-one-of-the-most-requested-user-features",
       "source": "Anthropic"
     }
