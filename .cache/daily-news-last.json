@@ -1,6 +1,26 @@
 {
-  "lastRun": "2026-01-28T00:13:48Z",
+  "lastRun": "2026-01-31T00:00:00Z",
   "articles": [
+    {
+      "title": "OpenAI Retiring GPT-4o Despite User Love",
+      "url": "https://www.cnbc.com/2026/01/29/openai-will-retire-gpt-4o-from-chatgpt-next-month.html",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic Revises Claude's Constitution & Hints at AI Consciousness",
+      "url": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "LayerX: AWS to Google Cloud Federation for AI-Era Auth",
+      "url": "https://tech.layerx.co.jp/entry/2026/01/30/152136",
+      "source": "LayerX"
+    },
+    {
+      "title": "AI Workforce SRE Team: Current & Future",
+      "url": "https://tech.layerx.co.jp/entry/ai-workforce-sre-2026",
+      "source": "LayerX"
+    },
     {
       "title": "GPT-5 Released: Doctoral-Level Intelligence Achieved",
       "url": "https://markets.financialcontent.com/stocks/article/tokenring-2026-1-28-the-dawn-of-the-thinking-engine-openai-unleashes-gpt-5-to-achieve-doctoral-level-intelligence",
