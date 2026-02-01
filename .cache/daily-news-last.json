@@ -1,6 +1,31 @@
 {
-  "lastRun": "2026-01-31T00:00:00Z",
+  "lastRun": "2026-02-01T00:14:44Z",
   "articles": [
+    {
+      "title": "ServiceNow and Anthropic Partner for Enterprise AI",
+      "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-and-Anthropic-partner-to-help-customers-build-AI-powered-applications-accelerate-time-to-value-and-apply-trusted-AI-to-critical-industries/default.aspx",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Linear Initiative Updates Feature",
+      "url": "https://linear.app/changelog/2025-02-13-initiative-updates",
+      "source": "Linear"
+    },
+    {
+      "title": "OpenAI Retiring GPT-4o in February 2026",
+      "url": "https://www.businesstoday.in/technology/news/story/openai-to-retire-gpt-4o-three-other-models-from-chatgpt-in-february-513589-2026-01-30",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Apple Almost Chose Claude for Siri",
+      "url": "https://www.mactrast.com/2026/01/apple-almost-chose-claude-to-power-the-new-siri-but-anthropic-got-too-greedy/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Updated Constitution for Claude",
+      "url": "https://www.infoq.com/news/2026/01/anthropic-constitution/",
+      "source": "Anthropic"
+    },
     {
       "title": "OpenAI Retiring GPT-4o Despite User Love",
       "url": "https://www.cnbc.com/2026/01/29/openai-will-retire-gpt-4o-from-chatgpt-next-month.html",
