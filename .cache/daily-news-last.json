@@ -1,6 +1,36 @@
 {
-  "lastRun": "2026-02-02T00:16:40Z",
+  "lastRun": "2026-02-02T00:16:01Z",
   "articles": [
+    {
+      "title": "Anthropic Moves Into Legal Tech",
+      "url": "https://www.artificiallawyer.com/2026/02/02/anthropic-moves-into-legal-tech/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic and Atlassian Williams F1 Team announce multi-year partnership",
+      "url": "https://finance.yahoo.com/news/anthropic-atlassian-williams-f1-team-131200203.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic's Claude AI Strikes F1 Partnership With Atlassian Williams",
+      "url": "https://variety.com/2026/tv/news/anthropics-claude-ai-f1-partnership-atlassian-williams-1236647185/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic expands Cowork with plug-ins for broader deployment",
+      "url": "https://www.techzine.eu/news/applications/138427/anthropic-expands-cowork-with-plug-ins-for-broader-deployment/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenAI plans to phase out GPT-5, GPT-4o and other older models",
+      "url": "https://www.business-standard.com/technology/tech-news/openai-plans-to-phase-out-gpt-5-gpt-4o-and-other-older-models-know-more-126020200419_1.html",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI announces end of old models like GPT-4o in ChatGPT",
+      "url": "https://www.mixvale.com.br/2026/02/02/openai-announces-end-of-old-models-like-gpt-4o-in-chatgpt-and-focuses-resources-on-advanced-versions-of-the-gpt-5-family-in-2026-en/",
+      "source": "OpenAI"
+    },
     {
       "title": "Inside Claude Code: How Anthropic's Engineers Are Rewriting the Playbook for AI-Assisted Development",
       "url": "https://www.webpronews.com/inside-claude-code-how-anthropics-engineers-are-rewriting-the-playbook-for-ai-assisted-development/",
