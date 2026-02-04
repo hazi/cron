@@ -1,14 +1,24 @@
 {
-  "lastRun": "2026-02-02T00:16:01Z",
+  "lastRun": "2026-02-04T00:00:00Z",
   "articles": [
+    {
+      "title": "Anthropic unveils Claude legal plugin and causes market meltdown",
+      "url": "https://legaltechnology.com/2026/02/03/anthropic-unveils-claude-legal-plugin-and-causes-market-meltdown/",
+      "source": "Anthropic"
+    },
     {
       "title": "Anthropic Moves Into Legal Tech",
       "url": "https://www.artificiallawyer.com/2026/02/02/anthropic-moves-into-legal-tech/",
       "source": "Anthropic"
     },
     {
-      "title": "Anthropic and Atlassian Williams F1 Team announce multi-year partnership",
-      "url": "https://finance.yahoo.com/news/anthropic-atlassian-williams-f1-team-131200203.html",
+      "title": "Claude 5 Latest News Roundup: Analysis of 6 Major Highlights",
+      "url": "https://help.apiyi.com/en/claude-5-latest-news-2026-features-release-en.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "ServiceNow and Anthropic Deepen AI Partnership",
+      "url": "https://techafricanews.com/2026/02/03/servicenow-and-anthropic-deepen-ai-partnership-to-power-enterprise-workflows-with-claude/",
       "source": "Anthropic"
     },
     {
@@ -17,14 +27,49 @@
       "source": "Anthropic"
     },
     {
-      "title": "Anthropic expands Cowork with plug-ins for broader deployment",
-      "url": "https://www.techzine.eu/news/applications/138427/anthropic-expands-cowork-with-plug-ins-for-broader-deployment/",
-      "source": "Anthropic"
-    },
-    {
       "title": "OpenAI plans to phase out GPT-5, GPT-4o and other older models",
       "url": "https://www.business-standard.com/technology/tech-news/openai-plans-to-phase-out-gpt-5-gpt-4o-and-other-older-models-know-more-126020200419_1.html",
       "source": "OpenAI"
+    },
+    {
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Linear Agent Slack Workflow Integration",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Form Templates Launch",
+      "url": "https://linear.app/changelog",
+      "source": "Linear"
+    },
+    {
+      "title": "Best of Lenny's Newsletter 2026",
+      "url": "https://www.lennysnewsletter.com/p/best-of-lennys-newsletter-2026",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Product manager is an unfair role",
+      "url": "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Anthropic and Atlassian Williams F1 Team announce multi-year partnership",
+      "url": "https://finance.yahoo.com/news/anthropic-atlassian-williams-f1-team-131200203.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic expands Cowork with plug-ins for broader deployment",
+      "url": "https://www.techzine.eu/news/applications/138427/anthropic-expands-cowork-with-plug-ins-for-broader-deployment/",
+      "source": "Anthropic"
     },
     {
       "title": "OpenAI announces end of old models like GPT-4o in ChatGPT",
@@ -45,11 +90,6 @@
       "title": "Anthropic announces Claude for Healthcare",
       "url": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
       "source": "Anthropic"
-    },
-    {
-      "title": "OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/",
-      "source": "OpenAI"
     },
     {
       "title": "OpenAI Axes GPT-4o: The End of a ChatGPT Favorite Sparks User Backlash",
@@ -220,11 +260,6 @@
       "title": "Linear Figma Integration",
       "url": "https://linear.app/now",
       "source": "Linear"
-    },
-    {
-      "title": "Product Manager is an Unfair Role",
-      "url": "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role",
-      "source": "Lenny's Newsletter"
     },
     {
       "title": "How Tolan Builds Voice-First AI with GPT-5.1",
