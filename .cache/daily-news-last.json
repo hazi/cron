@@ -1,6 +1,46 @@
 {
-  "lastRun": "2026-02-08T00:00:00Z",
+  "lastRun": "2026-02-09T00:00:00Z",
   "articles": [
+    {
+      "title": "Linear MCP for product management",
+      "url": "https://linear.app/changelog/2026-02-05-linear-mcp-for-product-management",
+      "source": "Linear"
+    },
+    {
+      "title": "Software Design 連載「実録 AI ネイティブプロダクト開発」がスタートします！",
+      "url": "https://tech.layerx.co.jp/entry/software-design-ai-native-product",
+      "source": "LayerX"
+    },
+    {
+      "title": "Anthropic's Claude triggered a trillion-dollar selloff",
+      "url": "https://fortune.com/2026/02/06/anthropic-claude-opus-4-6-stock-selloff-new-upgrade/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic announces Claude will remain permanently ad-free",
+      "url": "https://www.anthropic.com",
+      "source": "Anthropic"
+    },
+    {
+      "title": "GPT-5.2 Standard thinking time reduction",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Best of Lenny's Newsletter 2026",
+      "url": "https://www.lennysnewsletter.com/p/best-of-lennys-newsletter-2026",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "LayerX AI Product Quality Assurance event",
+      "url": "https://layerx.connpass.com/",
+      "source": "LayerX"
+    },
+    {
+      "title": "LayerX に join しました",
+      "url": "https://blog.riywo.com/2026/02/joining-layerx/",
+      "source": "LayerX"
+    },
     {
       "title": "Anthropic releases Opus 4.6 with new 'agent teams'",
       "url": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
@@ -9,11 +49,6 @@
     {
       "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
       "url": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
-      "source": "OpenAI"
-    },
-    {
-      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
-      "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost/",
       "source": "OpenAI"
     },
     {
@@ -55,21 +90,6 @@
       "title": "Introducing Trusted Access for Cyber",
       "url": "https://openai.com/index/trusted-access-for-cyber/",
       "source": "OpenAI"
-    },
-    {
-      "title": "Linear MCP for product management",
-      "url": "https://linear.app/changelog/2026-02-05-linear-mcp-for-product-management",
-      "source": "Linear"
-    },
-    {
-      "title": "Software Design 連載「実録 AI ネイティブプロダクト開発」がスタートします！",
-      "url": "https://tech.layerx.co.jp/entry/software-design-ai-native-product",
-      "source": "LayerX"
-    },
-    {
-      "title": "LayerX に join しました",
-      "url": "https://blog.riywo.com/2026/02/joining-layerx/",
-      "source": "LayerX"
     },
     {
       "title": "Anthropic launches Claude Opus 4.6 as AI moves toward a 'vibe working' era",
