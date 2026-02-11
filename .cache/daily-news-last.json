@@ -1,15 +1,90 @@
 {
-  "lastRun": "2026-02-10T00:00:00Z",
+  "lastRun": "2026-02-11T00:00:00Z",
   "articles": [
     {
-      "title": "Anthropic releases Opus 4.6 with new 'agent teams'",
-      "url": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
+      "title": "ChatGPT begins testing ads - OpenAI nears $100B funding",
+      "url": "https://www.cnbc.com/2026/02/09/sam-altman-touts-chatgpt-growth-as-openai-nears-100-billion-funding.html",
+      "source": "OpenAI"
+    },
+    {
+      "title": "State of the product job market - 6000+ PM roles open",
+      "url": "https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "AIプロダクトの品質保証を語ろう！ - freee × マネーフォワード × LayerX",
+      "url": "https://layerx.connpass.com/",
+      "source": "LayerX"
+    },
+    {
+      "title": "データ検索基盤チームの立ち上げ - 生成AI時代の非構造化データ",
+      "url": "https://tech.layerx.co.jp/",
+      "source": "LayerX"
+    },
+    {
+      "title": "Anthropic's newest model excels at finding security vulnerabilities—but raises fresh cybersecurity risks",
+      "url": "https://gizmodo.com/anthropic-launches-new-model-that-spots-zero-days-makes-wall-street-traders-lose-their-minds-2000718648",
       "source": "Anthropic"
+    },
+    {
+      "title": "Product manager is an unfair role. So work unfairly.",
+      "url": "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "FDE募集から半年の振り返りと2026年の展望",
+      "url": "https://tech.layerx.co.jp/",
+      "source": "LayerX"
+    },
+    {
+      "title": "急成長プロダクト「バクラク」「Bill One」の裏側～技術編～",
+      "url": "https://layerx.connpass.com/",
+      "source": "LayerX"
+    },
+    {
+      "title": "Anthropic Release Notes - February 2026",
+      "url": "https://releasebot.io/updates/anthropic",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenAI Release Notes - February 2026",
+      "url": "https://releasebot.io/updates/openai",
+      "source": "OpenAI"
+    },
+    {
+      "title": "ChatGPT Enterprise - February 2026 Launch at UCSF",
+      "url": "https://chancellor.ucsf.edu/news/open-ais-chatgpt-enterprise-february-2026-launch",
+      "source": "OpenAI"
+    },
+    {
+      "title": "GPT-4o Retirement: Why OpenAI Is Shutting Down Its Most Loved Model",
+      "url": "https://www.nxcode.io/resources/news/gpt-4o-retirement-2026",
+      "source": "OpenAI"
     },
     {
       "title": "Linear MCP for product management",
       "url": "https://linear.app/changelog/2026-02-05-linear-mcp-for-product-management",
       "source": "Linear"
+    },
+    {
+      "title": "Linear Reviews (2026)",
+      "url": "https://www.producthunt.com/products/linear/reviews",
+      "source": "Linear"
+    },
+    {
+      "title": "How to get into product management",
+      "url": "https://www.lennysnewsletter.com/p/how-to-get-into-product-management",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "What is product management",
+      "url": "https://www.lennysnewsletter.com/p/what-is-product-management",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Anthropic releases Opus 4.6 with new 'agent teams'",
+      "url": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
+      "source": "Anthropic"
     },
     {
       "title": "Introducing GPT-5.3-Codex",
@@ -25,11 +100,6 @@
       "title": "Introducing Trusted Access for Cyber",
       "url": "https://openai.com/index/trusted-access-for-cyber/",
       "source": "OpenAI"
-    },
-    {
-      "title": "AIプロダクトの品質保証を語ろう！",
-      "url": "https://layerx.connpass.com/",
-      "source": "LayerX"
     },
     {
       "title": "Anthropic's Claude triggered a trillion-dollar selloff",
@@ -50,11 +120,6 @@
       "title": "Best of Lenny's Newsletter 2026",
       "url": "https://www.lennysnewsletter.com/p/best-of-lennys-newsletter-2026",
       "source": "Lenny's Newsletter"
-    },
-    {
-      "title": "LayerX AI Product Quality Assurance event",
-      "url": "https://layerx.connpass.com/",
-      "source": "LayerX"
     },
     {
       "title": "LayerX に join しました",
