@@ -1,6 +1,36 @@
 {
-  "lastRun": "2026-02-11T00:00:00Z",
+  "lastRun": "2026-02-12T00:00:00Z",
   "articles": [
+    {
+      "title": "Claude Code by Anthropic - Release Notes February 2026",
+      "url": "https://releasebot.io/updates/anthropic/claude-code",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Claude Fast Mode Launch - February 2026",
+      "url": "https://releasebot.io/updates/anthropic/claude-code",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Apple Xcode 26.3 integrates Claude Agent SDK",
+      "url": "https://releasebot.io/updates/anthropic/claude-code",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Linear MCP: Initiatives & Milestones Support",
+      "url": "https://linear.app/changelog/2026-02-05-linear-mcp-for-product-management",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Sub-Issue Hierarchy Display",
+      "url": "https://linear.app/changelog",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Time Tracking in Statuses",
+      "url": "https://linear.app/changelog",
+      "source": "Linear"
+    },
     {
       "title": "ChatGPT begins testing ads - OpenAI nears $100B funding",
       "url": "https://www.cnbc.com/2026/02/09/sam-altman-touts-chatgpt-growth-as-openai-nears-100-billion-funding.html",
