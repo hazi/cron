@@ -1,6 +1,31 @@
 {
-  "lastRun": "2026-02-12T00:00:00Z",
+  "lastRun": "2026-02-13T00:00:00Z",
   "articles": [
+    {
+      "title": "Claude Cowork for Windows Launch",
+      "url": "https://venturebeat.com/technology/anthropics-claude-cowork-finally-lands-on-windows-and-it-wants-to-automate",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenAI begins testing ads in ChatGPT",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI Deep Research improvements",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Linear iOS: Initiative creation support",
+      "url": "https://linear.app/changelog",
+      "source": "Linear"
+    },
+    {
+      "title": "LayerX Data Enabling Team launch",
+      "url": "https://tech.layerx.co.jp/",
+      "source": "LayerX"
+    },
     {
       "title": "Claude Code by Anthropic - Release Notes February 2026",
       "url": "https://releasebot.io/updates/anthropic/claude-code",
