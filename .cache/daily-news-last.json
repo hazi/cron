@@ -1,6 +1,51 @@
 {
-  "lastRun": "2026-02-13T00:00:00Z",
+  "lastRun": "2026-02-14T00:00:00Z",
   "articles": [
+    {
+      "title": "Anthropic Raises $30 Billion in Series G Funding at $380B Valuation",
+      "url": "https://www.anthropic.com/news",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Linear Time in Status - Workflow Visualization Feature",
+      "url": "https://linear.app/changelog",
+      "source": "Linear"
+    },
+    {
+      "title": "ChatGPT begins testing ads in Free/Go tiers",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
+    {
+      "title": "GPT-4o Retirement and Sycophancy Controversy",
+      "url": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Linear MCP - Initiative & Milestone Support",
+      "url": "https://linear.app/changelog/2026-02-05-linear-mcp-for-product-management",
+      "source": "Linear"
+    },
+    {
+      "title": "LayerX Data Enabling Team Launch",
+      "url": "https://tech.layerx.co.jp/entry/launch-data-enabling-team-2026",
+      "source": "LayerX"
+    },
+    {
+      "title": "Software Design AI Native Product Development Series",
+      "url": "https://tech.layerx.co.jp/entry/software-design-ai-native-product",
+      "source": "LayerX"
+    },
+    {
+      "title": "GPT-5.3-Codex Release",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Lenny's Newsletter 2026 Strategy",
+      "url": "https://www.lennysnewsletter.com/p/best-of-lennys-newsletter-2026",
+      "source": "Lenny's Newsletter"
+    },
     {
       "title": "Claude Cowork for Windows Launch",
       "url": "https://venturebeat.com/technology/anthropics-claude-cowork-finally-lands-on-windows-and-it-wants-to-automate",
