@@ -1,6 +1,26 @@
 {
-  "lastRun": "2026-02-14T00:00:00Z",
+  "lastRun": "2026-02-16T00:00:00Z",
   "articles": [
+    {
+      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+      "url": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Claude looks even better as free users get more features",
+      "url": "https://www.pcworld.com/article/3060759/anthropic-gives-even-more-features-to-claudes-free-users.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "GPT-5.3-Codex-Spark: Real-time coding model on Cerebras",
+      "url": "https://releasebot.io/updates/openai/chatgpt",
+      "source": "OpenAI"
+    },
+    {
+      "title": "US military used Claude AI in Nicolás Maduro capture operation",
+      "url": "https://www.foxnews.com/us/ai-tool-claude-helped-capture-venezuelan-dictator-maduro-us-military-raid-operation-report",
+      "source": "Anthropic"
+    },
     {
       "title": "Anthropic Raises $30 Billion in Series G Funding at $380B Valuation",
       "url": "https://www.anthropic.com/news",
