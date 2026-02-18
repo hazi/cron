@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-02-16T00:00:00Z",
+  "lastRun": "2026-02-18T00:00:00Z",
   "articles": [
     {
       "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
@@ -284,6 +284,16 @@
     {
       "title": "Anthropic launches Claude Opus 4.6 as AI moves toward a 'vibe working' era",
       "url": "https://www.cnbc.com/2026/02/05/anthropic-claude-opus-4-6-vibe-working.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Releases Claude 4.6 Sonnet with 1 Million Token Context",
+      "url": "https://www.marktechpost.com/2026/02/17/anthropic-releases-claude-4-6-sonnet-with-1-million-token-context-to-solve-complex-coding-and-search-for-developers/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Claude 4.6 Sonnet with Adaptive Thinking Engine",
+      "url": "https://releasebot.io/updates/anthropic/claude",
       "source": "Anthropic"
     }
   ]
