@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-02-19T00:00:00Z",
+  "lastRun": "2026-02-19T00:19:11Z",
   "articles": [
     {
       "title": "Anthropic's Claude Code creator predicts software engineering title will start to 'go away' in 2026",
@@ -314,6 +314,51 @@
     {
       "title": "Claude 4.6 Sonnet with Adaptive Thinking Engine",
       "url": "https://releasebot.io/updates/anthropic/claude",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Do the people building the AI chatbot Claude understand what they've created?",
+      "url": "https://www.npr.org/2026/02/18/nx-s1-5717561/do-the-people-building-the-ai-chatbot-claude-understand-what-theyve-created",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Linear Agent: Customer conversations to actionable issues (Intercom, Zendesk, Gong)",
+      "url": "https://linear.app/changelog",
+      "source": "Linear"
+    },
+    {
+      "title": "Linear Agent for Slack Workflow Builder",
+      "url": "https://linear.app/changelog",
+      "source": "Linear"
+    },
+    {
+      "title": "Claude integrations with Slack, Figma, Asana via MCP",
+      "url": "https://www.anthropic.com/news",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Self-serve Enterprise Plans (no sales required)",
+      "url": "https://www.anthropic.com/news",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Claude reads health and fitness data on iOS and Android",
+      "url": "https://www.anthropic.com/news",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic opens Bengaluru office, expands India partnerships",
+      "url": "https://www.anthropic.com/news",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic and Rwanda ink 3-year MOU for AI in education, health, government",
+      "url": "https://www.anthropic.com/news",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Claude selected for GOV.UK AI-powered assistant pilot",
+      "url": "https://www.anthropic.com/news",
       "source": "Anthropic"
     }
   ]
