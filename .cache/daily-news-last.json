@@ -1,6 +1,16 @@
 {
-  "lastRun": "2026-02-19T00:19:11Z",
+  "lastRun": "2026-02-20T00:17:56Z",
   "articles": [
+    {
+      "title": "Anthropic Unveils 'Claude Code Security,' Sending Cyber Stocks Lower",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-20/cyber-stocks-slide-as-anthropic-unveils-claude-code-security",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic clarifies ban on third-party tool access to Claude",
+      "url": "https://www.theregister.com/2026/02/20/anthropic_clarifies_ban_third_party_claude_access/",
+      "source": "Anthropic"
+    },
     {
       "title": "Anthropic's Claude Code creator predicts software engineering title will start to 'go away' in 2026",
       "url": "https://dnyuz.com/2026/02/18/anthropics-claude-code-creator-predicts-software-engineering-title-will-start-to-go-away-in-2026/",
