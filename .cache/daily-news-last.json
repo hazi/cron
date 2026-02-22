@@ -1,6 +1,26 @@
 {
-  "lastRun": "2026-02-20T00:17:56Z",
+  "lastRun": "2026-02-21T00:16:10Z",
   "articles": [
+    {
+      "title": "The Surprise Hit That Made Anthropic Into an AI Juggernaut",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-20/the-surprise-hit-that-made-anthropic-into-an-ai-juggernaut-mlve4nc2",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Cybersecurity stocks drop after Anthropic debuts Claude Code Security",
+      "url": "https://siliconangle.com/2026/02/20/cybersecurity-stocks-drop-anthropic-debuts-claude-code-security/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Advanced filters and share issues in private teams",
+      "url": "https://linear.app/changelog/2026-02-13-advanced-filters-and-share-issues-in-private-teams",
+      "source": "Linear"
+    },
+    {
+      "title": "Retiring GPT-4o and other ChatGPT models",
+      "url": "https://help.openai.com/en/articles/20001051-retiring-gpt-4o-and-other-chatgpt-models",
+      "source": "OpenAI"
+    },
     {
       "title": "Anthropic Unveils 'Claude Code Security,' Sending Cyber Stocks Lower",
       "url": "https://www.bloomberg.com/news/articles/2026-02-20/cyber-stocks-slide-as-anthropic-unveils-claude-code-security",
