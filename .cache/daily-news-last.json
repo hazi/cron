@@ -1,6 +1,31 @@
 {
-  "lastRun": "2026-02-21T00:16:10Z",
+  "lastRun": "2026-02-22T00:17:44Z",
   "articles": [
+    {
+      "title": "A guide to AI prototyping for product managers",
+      "url": "https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Make product management fun again with AI agents",
+      "url": "https://www.lennysnewsletter.com/p/make-product-management-fun-again",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "This week on How I AI: \"PMs who use AI will replace those who don't\" with Marily Nika",
+      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-pms-who-use",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Tensions between the Pentagon and AI giant Anthropic reach a boiling point",
+      "url": "https://www.nbcnews.com/tech/security/anthropic-ai-defense-war-venezuela-maduro-rcna259603",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Ai Workforce事業部SREの現在とこれから",
+      "url": "https://tech.layerx.co.jp/entry/ai-workforce-sre-2026",
+      "source": "LayerX"
+    },
     {
       "title": "The Surprise Hit That Made Anthropic Into an AI Juggernaut",
       "url": "https://www.bloomberg.com/news/articles/2026-02-20/the-surprise-hit-that-made-anthropic-into-an-ai-juggernaut-mlve4nc2",
