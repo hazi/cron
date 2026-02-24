@@ -1,6 +1,31 @@
 {
-  "lastRun": "2026-02-22T00:17:44Z",
+  "lastRun": "2026-02-23T00:18:09Z",
   "articles": [
+    {
+      "title": "Defense Secretary summons Anthropic's Amodei over military use of Claude",
+      "url": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+      "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenAI launches ChatGPT Health, partners with b.well",
+      "url": "https://www.mobihealthnews.com/news/openai-launches-chatgpt-health-partners-bwell",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI may launch new $100/month ChatGPT Pro Lite subscription",
+      "url": "https://www.gizmochina.com/2026/02/23/openai-may-launch-100-month-chatgpt-pro-lite/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Cloudflare, CrowdStrike Slide Sharply After Anthropic Launches Claude Security Feature",
+      "url": "https://www.fxleaders.com/news/2026/02/23/cloudflare-crowdstrike-slide-sharply-after-anthropic-launches-claude-security-feature/",
+      "source": "Anthropic"
+    },
     {
       "title": "A guide to AI prototyping for product managers",
       "url": "https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product",
