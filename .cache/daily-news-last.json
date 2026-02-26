@@ -1,6 +1,41 @@
 {
-  "lastRun": "2026-02-24T00:19:13Z",
+  "lastRun": "2026-02-25T00:19:46Z",
   "articles": [
+    {
+      "title": "Hacker Used Anthropic's Claude to Steal Sensitive Mexican Data",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-25/hacker-used-anthropic-s-claude-to-steal-sensitive-mexican-data",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Expands Claude With Enterprise Plugins and Marketplace",
+      "url": "https://www.ghacks.net/2026/02/25/anthropic-expands-claude-with-enterprise-plugins-and-marketplace/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Expands Claude to Cover Investment Banking",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-claude-cover-human-resources-investment-banking/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Pushes Claude Beyond Chat Into Enterprise Workflows",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-pushes-claude-beyond-chat-into-enterprise-workflows/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenAI Partners With Consulting Giants in Enterprise AI Push",
+      "url": "https://aibusiness.com/generative-ai/openai-partners-with-consulting-giants-for-enterprise-ai",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI resets spending expectations, targets ~$600B compute by 2030",
+      "url": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
+      "source": "OpenAI"
+    },
+    {
+      "title": "US Judge Dismisses XAI Trade-Secrets Lawsuit Against Rival OpenAI",
+      "url": "https://money.usnews.com/investing/news/articles/2026-02-24/us-judge-dismisses-xai-trade-secrets-lawsuit-against-rival-openai-for-now",
+      "source": "OpenAI"
+    },
     {
       "title": "Anthropic updates Claude Cowork tool built to give the average office worker a productivity boost",
       "url": "https://www.cnbc.com/2026/02/24/anthropic-claude-cowork-office-worker.html",
