@@ -1,6 +1,41 @@
 {
-  "lastRun": "2026-02-26T00:15:30Z",
+  "lastRun": "2026-02-27T00:17:07Z",
   "articles": [
+    {
+      "title": "Anthropic Statement on Department of War",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenAI Finalizes $110 Billion Funding at $730 Billion Value",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/openai-finalizes-110-billion-funding-at-730-billion-valuation",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Trump Moves to Blacklist Anthropic's Claude from Government Work",
+      "url": "https://www.axios.com/2026/02/27/anthropic-pentagon-supply-chain-risk-claude",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Trump administration orders military contractors and federal agencies to cease business with Anthropic",
+      "url": "https://www.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic rejects Pentagon demand to allow wide military use of Claude",
+      "url": "https://www.washingtonpost.com/technology/2026/02/26/anthropic-pentagon-rejects-demand-claude/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Opinion: Anthropic clash with Hegseth is about more than DOD access to Claude",
+      "url": "https://www.washingtonpost.com/opinions/2026/02/26/hegseth-anthropic-ai-model-claude/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "DEIM2026にプラチナスポンサーとして協賛します",
+      "url": "https://tech.layerx.co.jp/entry/2026/02/27/170238",
+      "source": "LayerX"
+    },
     {
       "title": "Deeplink to AI coding tools",
       "url": "https://linear.app/changelog/2026-02-26-deeplink-to-ai-coding-tools",
