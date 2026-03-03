@@ -1,6 +1,46 @@
 {
-  "lastRun": "2026-03-01T00:17:33Z",
+  "lastRun": "2026-03-03T00:16:38Z",
   "articles": [
+    {
+      "title": "Leaks suggest OpenAI GPT-5.4 launch is imminent with 2M token context window",
+      "url": "https://www.eonmsk.com/2026/03/02/leaks-suggests-openai-gpt-5-4-launch-is-imminent/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic's Claude reports widespread outage amid unprecedented demand surge",
+      "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic's Claude Chatbot Goes Down For Thousands of Users",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-02/anthropic-s-claude-chatbot-goes-down-for-thousands-of-users",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic confirms Claude is down in a worldwide outage",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "An update on our model deprecation commitments for Claude Opus 3",
+      "url": "https://www.anthropic.com/research/deprecation-updates-opus-3",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Criteo Joins OpenAI Advertising Pilot in ChatGPT",
+      "url": "https://www.criteo.com/news/press-releases/2026/03/criteo-joins-openai-advertising-pilot-in-chatgpt/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "LayerX DEIM2026 技術報告: AIエージェントによる業務の自動運転化",
+      "url": "https://tech.layerx.co.jp/entry/2026/02/27/170238",
+      "source": "LayerX"
+    },
+    {
+      "title": "未踏会議2026 MEET DAY に LayerX から Ai Workforce 事業 CEO が登壇",
+      "url": "https://tech.layerx.co.jp/entry/mitoukaigi-2026",
+      "source": "LayerX"
+    },
     {
       "title": "OpenAI launches GPT-5.2 with Prism research workspace and ChatGPT Go plan",
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
