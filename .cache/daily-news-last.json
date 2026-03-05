@@ -1,6 +1,26 @@
 {
-  "lastRun": "2026-03-04T00:00:00Z",
+  "lastRun": "2026-03-05T00:00:00Z",
   "articles": [
+    {
+      "title": "Defense tech companies are dropping Claude after Pentagon's Anthropic blacklist",
+      "url": "https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic's AI tool Claude central to U.S. campaign in Iran, amid a bitter feud",
+      "url": "https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenAI hints GPT-5.4 is coming sooner than expected after GPT-5.3 Instant update",
+      "url": "https://piunikaweb.com/2026/03/04/openai-gpt-5-4-release-sooner-gpt-5-3-instant-update/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "社内を歩けば「発明」に当たる？ Ai Workforce事業部で新技術が生まれ続ける理由",
+      "url": "https://note.layerx.co.jp/n/n23006dde0eca",
+      "source": "LayerX"
+    },
     {
       "title": "Anthropic Drops Memory Paywall for Free Claude Users",
       "url": "https://winbuzzer.com/2026/03/03/anthropic-drops-memory-paywall-free-claude-users-xcxwbn/",
