@@ -1,6 +1,36 @@
 {
-  "lastRun": "2026-03-05T00:00:00Z",
+  "lastRun": "2026-03-06T00:00:00Z",
   "articles": [
+    {
+      "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+      "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI debuts GPT-5.4 for office tasks to compete with Anthropic, Google",
+      "url": "https://www.axios.com/2026/03/05/openai-gpt-54-chatgpt-office",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic Tries to Win Users From ChatGPT With Memory Feature",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-03/anthropic-tries-to-win-users-from-chatgpt-with-memory-feature",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Introducing GPT-5.2-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-2-codex/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Introducing GPT-5.3 Instant, GPT-5.4 Thinking, and GPT-5.4 Pro",
+      "url": "https://academy.openai.com/public/resources/latest-model",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic Says Claude 'Operational' After International Outage",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-investigates-as-claude-suffers-international-outage/",
+      "source": "Anthropic"
+    },
     {
       "title": "Defense tech companies are dropping Claude after Pentagon's Anthropic blacklist",
       "url": "https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html",
