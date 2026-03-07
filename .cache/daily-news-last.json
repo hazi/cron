@@ -1,6 +1,41 @@
 {
-  "lastRun": "2026-03-06T00:00:00Z",
+  "lastRun": "2026-03-07T00:00:00Z",
   "articles": [
+    {
+      "title": "Introducing ChatGPT for Excel and new financial data integrations",
+      "url": "https://openai.com/index/chatgpt-for-excel/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches GPT-5.4 with native computer use mode, financial plugins for Microsoft Excel, Google Sheets",
+      "url": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.4 With Expanded Context Window, Improved Reasoning, and Higher Benchmark Performance",
+      "url": "https://theaiinsider.tech/2026/03/06/openai-launches-gpt-5-4-with-expanded-context-window-improved-reasoning-and-higher-benchmark-performance/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Claude AI Powers First AI-Planned Mars Rover Drive",
+      "url": "https://www.anthropic.com/mars",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Detecting and preventing distillation attacks",
+      "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Linear × Notion Custom Agents Integration",
+      "url": "https://linear.app/integrations/notion-agent",
+      "source": "Linear"
+    },
+    {
+      "title": "5 OpenClaw agents run my home, finances, and code | Jesse Genet",
+      "url": "https://www.lennysnewsletter.com/p/5-openclaw-agents-run-my-home-finances",
+      "source": "Lenny's Newsletter"
+    },
     {
       "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
       "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
