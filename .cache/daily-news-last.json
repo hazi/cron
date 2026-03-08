@@ -1,6 +1,31 @@
 {
-  "lastRun": "2026-03-07T00:00:00Z",
+  "lastRun": "2026-03-08T00:00:00Z",
   "articles": [
+    {
+      "title": "Anthropic's fight with the Pentagon made Claude hugely popular",
+      "url": "https://www.washingtonpost.com/technology/2026/03/06/anthropic-pentagon-claude-popularity/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+      "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenAI Releases New Financial Services Tools, Rivaling Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-05/openai-releases-new-financial-services-tools-rivaling-anthropic",
+      "source": "OpenAI"
+    },
+    {
+      "title": "No Week Without a Major Release: OpenAI's GPT-5.4 Elevates AI Autonomy and Agency",
+      "url": "https://quasa.io/media/no-week-without-a-major-release-openai-s-gpt-5-4-elevates-ai-autonomy-and-agency",
+      "source": "OpenAI"
+    },
+    {
+      "title": "DEIM2026参加レポート - AIエージェントによる業務の自動運転化",
+      "url": "https://tech.layerx.co.jp/entry/deim2026_report",
+      "source": "LayerX"
+    },
     {
       "title": "Introducing ChatGPT for Excel and new financial data integrations",
       "url": "https://openai.com/index/chatgpt-for-excel/",
