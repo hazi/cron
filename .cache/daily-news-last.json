@@ -1,6 +1,26 @@
 {
-  "lastRun": "2026-03-09T00:15:16Z",
+  "lastRun": "2026-03-09T00:17:41Z",
   "articles": [
+    {
+      "title": "Anthropic sues Trump administration over Pentagon blacklist",
+      "url": "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic sues the Trump administration over 'supply chain risk' label",
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5742548/anthropic-pentagon-lawsuit-amodai-hegseth",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Challenges SaaS Giants With Claude Marketplace",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-challenges-saas-giants-with-claude-marketplace/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenAI, in Desperate Need of a Win, Launches GPT-5.4",
+      "url": "https://gizmodo.com/openai-in-desperate-need-of-a-win-launches-gpt-5-4-2000730268",
+      "source": "OpenAI"
+    },
     {
       "title": "Head of Claude Code: What Happens After Coding Is Solved",
       "url": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens",
