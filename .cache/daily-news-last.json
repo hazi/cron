@@ -1,6 +1,41 @@
 {
-  "lastRun": "2026-03-09T00:17:41Z",
+  "lastRun": "2026-03-10T00:15:10Z",
   "articles": [
+    {
+      "title": "AIエージェントを強くする『合成データ』作成のニッチなTips集",
+      "url": "https://tech.layerx.co.jp/entry/2026/03/10/150000",
+      "source": "LayerX"
+    },
+    {
+      "title": "一度目のミスは「学習機会」。LayerX流・形式知のループの回し方",
+      "url": "https://tech.layerx.co.jp/entry/2026/03/09/140342",
+      "source": "LayerX"
+    },
+    {
+      "title": "Introducing GPT-5.4 | OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI ChatGPT 6 Leak : Expected Developer Preview in Late 2026",
+      "url": "https://www.geeky-gadgets.com/openai-chatgpt-6-late-2026-preview/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.4 to Automate Complex Professional Work",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-launches-gpt-5-4-to-automate-complex-professional-work/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic officially told by DOD that it's a supply chain risk even as Claude used in Iran",
+      "url": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Sued the U.S. Government for Labelling Claude as 'Supply Chain Risk'",
+      "url": "https://cybersecuritynews.com/anthropic-sued-the-u-s-government/",
+      "source": "Anthropic"
+    },
     {
       "title": "Anthropic sues Trump administration over Pentagon blacklist",
       "url": "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
