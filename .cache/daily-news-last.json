@@ -1,6 +1,26 @@
 {
-  "lastRun": "2026-03-10T00:15:10Z",
+  "lastRun": "2026-03-11T00:14:31Z",
   "articles": [
+    {
+      "title": "New DryRun Security Research: Anthropic's Claude Generates the Most Unresolved Security Flaws in AI-Built Applications",
+      "url": "https://finance.yahoo.com/news/dryrun-security-research-anthropic-claude-120000947.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "How Anthropic Became the Most Disruptive Company in the World",
+      "url": "https://time.com/article/2026/03/11/anthropic-claude-disruptive-company-pentagon/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.4 With Advanced Reasoning, Coding, and Computer-Use Capabilities",
+      "url": "https://cybersecuritynews.com/gpt-5-4-launched/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Claude was down for many — here's everything we know",
+      "url": "https://www.techradar.com/news/live/claude-anthropic-down-outage-march-11-2026",
+      "source": "Anthropic"
+    },
     {
       "title": "AIエージェントを強くする『合成データ』作成のニッチなTips集",
       "url": "https://tech.layerx.co.jp/entry/2026/03/10/150000",
