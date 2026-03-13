@@ -1,6 +1,36 @@
 {
-  "lastRun": "2026-03-11T00:14:31Z",
+  "lastRun": "2026-03-12T00:18:47Z",
   "articles": [
+    {
+      "title": "Anthropic invests $100 million into the Claude Partner Network",
+      "url": "https://www.anthropic.com/news/claude-partner-network",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic's Claude would 'pollute' defense supply chain: Pentagon CTO",
+      "url": "https://www.cnbc.com/2026/03/12/anthropic-claude-emil-michael-defense.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Introducing The Anthropic Institute",
+      "url": "https://www.anthropic.com/news/the-anthropic-institute",
+      "source": "Anthropic"
+    },
+    {
+      "title": "UI Refresh - Linear Changelog",
+      "url": "https://linear.app/changelog/2026-03-12-ui-refresh",
+      "source": "Linear"
+    },
+    {
+      "title": "Introducing the Codex app",
+      "url": "https://openai.com/index/introducing-the-codex-app/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "How I AI: Mastering Midjourney",
+      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-mastering-midjourney",
+      "source": "Lenny's Newsletter"
+    },
     {
       "title": "New DryRun Security Research: Anthropic's Claude Generates the Most Unresolved Security Flaws in AI-Built Applications",
       "url": "https://finance.yahoo.com/news/dryrun-security-research-anthropic-claude-120000947.html",
