@@ -1,6 +1,66 @@
 {
-  "lastRun": "2026-03-12T00:18:47Z",
+  "lastRun": "2026-03-13T00:17:11Z",
   "articles": [
+    {
+      "title": "Claude can now create custom charts and inline visualizations",
+      "url": "https://www.anthropic.com/news",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Linear Mobile Agent Sessions",
+      "url": "https://linear.app/now",
+      "source": "Linear"
+    },
+    {
+      "title": "OpenAI Plans to Integrate Sora into ChatGPT",
+      "url": "https://www.androidheadlines.com/2026/03/openai-may-bring-sora-ai-video-generation-directly-to-chatgpt.html",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic's Claude found 22 vulnerabilities in Firefox in 2 weeks",
+      "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Amazon & OpenAI forge $150 billion compute partnership",
+      "url": "https://www.bnnbloomberg.ca/investing/hot-picks/2026/03/13/hot-picks-amazon-openai-deal-seen-boosting-ai-compute-growth/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Military commanders given 180-day deadline to remove Anthropic products",
+      "url": "https://thehill.com/policy/defense/5778840-pentagon-anthropic-ai-dod-hegseth/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Sora 2 is here",
+      "url": "https://openai.com/index/sora-2/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Sydney will become Anthropic's fourth office in Asia-Pacific",
+      "url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Linear Sub-Initiatives for Multi-Goal Planning",
+      "url": "https://linear.app/changelog",
+      "source": "Linear"
+    },
+    {
+      "title": "GPT-5.1 Models Retired from ChatGPT",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic: AI's influence over the labor market is only beginning to be felt",
+      "url": "https://www.hrdive.com/news/anthropic-ai-influence-over-the-labor-market-jobs/814670/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Partnering with Mozilla to improve Firefox's security",
+      "url": "https://red.anthropic.com/2026/firefox/",
+      "source": "Anthropic"
+    },
     {
       "title": "Anthropic invests $100 million into the Claude Partner Network",
       "url": "https://www.anthropic.com/news/claude-partner-network",
