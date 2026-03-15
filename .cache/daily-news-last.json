@@ -1,6 +1,36 @@
 {
-  "lastRun": "2026-03-13T00:17:11Z",
+  "lastRun": "2026-03-14T00:19:26Z",
   "articles": [
+    {
+      "title": "Why your AI product needs a different development lifecycle",
+      "url": "https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Claude's Excel and PowerPoint add-ins now share context across apps",
+      "url": "https://the-decoder.com/claudes-excel-and-powerpoint-add-ins-now-share-context-across-apps/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "How AI will impact product management",
+      "url": "https://www.lennysnewsletter.com/p/how-ai-will-impact-product-management",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "ChatGPT write actions for Google and Microsoft apps",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "source": "OpenAI"
+    },
+    {
+      "title": "ChatGPT interactive learning modules for math and science",
+      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Linear expands AI coding agent support to include Amp",
+      "url": "https://linear.app/changelog",
+      "source": "Linear"
+    },
     {
       "title": "Claude can now create custom charts and inline visualizations",
       "url": "https://www.anthropic.com/news",
