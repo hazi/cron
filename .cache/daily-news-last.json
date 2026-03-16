@@ -1,6 +1,41 @@
 {
-  "lastRun": "2026-03-14T00:19:26Z",
+  "lastRun": "2026-03-15T00:18:40Z",
   "articles": [
+    {
+      "title": "Linear agent for Intercom, Zendesk & Gong",
+      "url": "https://linear.app/changelog/2025-12-11-linear-agent-for-intercom-zendesk-gong",
+      "source": "Linear"
+    },
+    {
+      "title": "OpenAI Codex changelog — Codex for Windows",
+      "url": "https://developers.openai.com/codex/changelog/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "How I built a 1M+ subscriber newsletter and top 10 tech podcast",
+      "url": "https://www.lennysnewsletter.com/p/how-i-built-a-1m-subscriber-newsletter",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Anthropic's March 2026 Claude Promotion: Free Usage Boost",
+      "url": "https://www.webpronews.com/anthropics-march-2026-claude-promotion-what-you-need-to-know-about-the-free-usage-boost/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "A calmer interface for a product in motion — Linear UI refresh",
+      "url": "https://linear.app/now/behind-the-latest-design-refresh",
+      "source": "Linear"
+    },
+    {
+      "title": "ChatGPT Enterprise & Edu - Workspace Analytics and Codex for Windows",
+      "url": "https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic makes 1M token context standard for Claude 4.6",
+      "url": "https://windowsreport.com/anthropic-makes-1m-token-context-standard-for-claude-4-6/",
+      "source": "Anthropic"
+    },
     {
       "title": "Why your AI product needs a different development lifecycle",
       "url": "https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different",
