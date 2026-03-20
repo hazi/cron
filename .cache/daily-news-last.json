@@ -1,6 +1,16 @@
 {
-  "lastRun": "2026-03-18T00:18:31Z",
+  "lastRun": "2026-03-19T00:17:38Z",
   "articles": [
+    {
+      "title": "Anthropic's Claude claws its way towards the top of AI chart",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_market_share/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "DoD 'confident' it can replace Anthropic's Claude within six months, but some warn transition won't be easy",
+      "url": "https://federalnewsnetwork.com/defense-news/2026/03/dod-confident-it-can-replace-anthropics-claude-within-six-months-but-some-warn-transition-wont-be-easy/",
+      "source": "Anthropic"
+    },
     {
       "title": "OpenAI Releases GPT-5.4 Mini And Nano Models",
       "url": "https://dataconomy.com/2026/03/18/openai-releases-gpt-5-4-mini-and-nano-models/",
