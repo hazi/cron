@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-19T00:17:38Z",
+  "lastRun": "2026-03-20T00:17:23Z",
   "articles": [
     {
       "title": "Anthropic's Claude claws its way towards the top of AI chart",
@@ -1145,6 +1145,21 @@
       "title": "Claude selected for GOV.UK AI-powered assistant pilot",
       "url": "https://www.anthropic.com/news",
       "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic Offering Double Limits for Claude Usage on Free & Pro Plans—With a Catch",
+      "url": "https://www.androidheadlines.com/2026/03/claude-double-usage-limits-march-2026-promotion.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Will Anthropic's Claude Partner Network Impact Legal Tech?",
+      "url": "https://www.artificiallawyer.com/2026/03/17/will-anthropics-claude-partner-network-impact-legal-tech/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "LayerX、シリーズBで150億円を調達。エンジニアの採用を強化し、AIエージェント事業をさらに加速",
+      "url": "https://digitalpr.jp/r/117050",
+      "source": "LayerX"
     }
   ]
 }
