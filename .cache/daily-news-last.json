@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-20T00:17:23Z",
+  "lastRun": "2026-03-22T00:18:27Z",
   "articles": [
     {
       "title": "Anthropic's Claude claws its way towards the top of AI chart",
@@ -1160,6 +1160,61 @@
       "title": "LayerX、シリーズBで150億円を調達。エンジニアの採用を強化し、AIエージェント事業をさらに加速",
       "url": "https://digitalpr.jp/r/117050",
       "source": "LayerX"
+    },
+    {
+      "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels",
+      "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
+      "source": "Anthropic"
+    },
+    {
+      "title": "How I AI: Claude Code for Product Managers",
+      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "How close is AI to replacing product managers?",
+      "url": "https://www.lennysnewsletter.com/p/how-close-is-ai-to-replacing-product",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "The non-technical PM's guide to building with Cursor",
+      "url": "https://www.lennysnewsletter.com/p/the-non-technical-pms-guide-to-building-with-cursor",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Why PMs are best positioned to thrive in an AI world",
+      "url": "https://www.lennysnewsletter.com/p/why-pms-are-best-positioned-to-thrive",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Product manager is an unfair role. So work unfairly.",
+      "url": "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Software Design 連載「実録 AI ネイティブプロダクト開発」がスタートします！",
+      "url": "https://tech.layerx.co.jp/entry/software-design-ai-native-product",
+      "source": "LayerX"
+    },
+    {
+      "title": "Data Enablingチームを立ち上げました",
+      "url": "https://tech.layerx.co.jp/entry/launch-data-enabling-team-2026",
+      "source": "LayerX"
+    },
+    {
+      "title": "プレスリリース駆動開発のすゝめ",
+      "url": "https://tech.layerx.co.jp/entry/press-release-driven-development",
+      "source": "LayerX"
+    },
+    {
+      "title": "Ai Workforce事業部SREの現在とこれから",
+      "url": "https://tech.layerx.co.jp/entry/ai-workforce-sre-2026",
+      "source": "LayerX"
+    },
+    {
+      "title": "Will Anthropic's Claude Partner Network Impact Legal Tech?",
+      "url": "https://www.artificiallawyer.com/2026/03/17/will-anthropics-claude-partner-network-impact-legal-tech/",
+      "source": "Anthropic"
     }
   ]
 }
