@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-22T00:18:27Z",
+  "lastRun": "2026-03-23T00:00:00Z",
   "articles": [
     {
       "title": "Anthropic's Claude claws its way towards the top of AI chart",
@@ -1215,6 +1215,11 @@
       "title": "Will Anthropic's Claude Partner Network Impact Legal Tech?",
       "url": "https://www.artificiallawyer.com/2026/03/17/will-anthropics-claude-partner-network-impact-legal-tech/",
       "source": "Anthropic"
+    },
+    {
+      "title": "ChatGPT March 2026 Update: 5 Major Changes Explained",
+      "url": "https://www.theasianaffairs.com/chatgpt-march-2026-update-gpt-5-3-instant/",
+      "source": "OpenAI"
     }
   ]
 }
