@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-23T00:00:00Z",
+  "lastRun": "2026-03-24T00:00:00Z",
   "articles": [
     {
       "title": "Anthropic's Claude claws its way towards the top of AI chart",
@@ -1220,6 +1220,31 @@
       "title": "ChatGPT March 2026 Update: 5 Major Changes Explained",
       "url": "https://www.theasianaffairs.com/chatgpt-march-2026-update-gpt-5-3-instant/",
       "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic is giving Claude the ability to use your Mac for you",
+      "url": "https://9to5mac.com/2026/03/23/anthropic-is-giving-claude-the-ability-to-use-your-mac-for-you/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic just shipped Claude Code Channels — message it over Telegram and Discord",
+      "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
+      "source": "Anthropic"
+    },
+    {
+      "title": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities",
+      "url": "https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Best of Lenny's Newsletter 2026",
+      "url": "https://www.lennysnewsletter.com/p/best-of-lennys-newsletter-2026",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Product manager is an unfair role. So work unfairly.",
+      "url": "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role",
+      "source": "Lenny's Newsletter"
     }
   ]
 }
