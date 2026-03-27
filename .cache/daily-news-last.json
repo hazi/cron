@@ -1,6 +1,41 @@
 {
-  "lastRun": "2026-03-25T00:18:20Z",
+  "lastRun": "2026-03-27T00:20:54Z",
   "articles": [
+    {
+      "title": "OpenAI is shutting down its Sora video generation app",
+      "url": "https://edition.cnn.com/2026/03/24/tech/openai-sora-video-app-shutting-down",
+      "source": "OpenAI"
+    },
+    {
+      "title": "A guide to AI prototyping for product managers",
+      "url": "https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "Anthropic tweaks Claude usage limits to manage capacity",
+      "url": "https://www.theregister.com/2026/03/26/anthropic_tweaks_usage_limits/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Make product management fun again with AI agents",
+      "url": "https://www.lennysnewsletter.com/p/make-product-management-fun-again",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "LayerX × TCV：日本初投資の舞台裏——福島氏とMichael氏が語るグローバル資金調達",
+      "url": "https://thebridge.jp/2026/03/layerx-tcv-first-japan-investment-behind-the-scenes",
+      "source": "LayerX"
+    },
+    {
+      "title": "This week on How I AI: PMs who use AI will replace those who don't",
+      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-pms-who-use",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "OpenAI to shut down Sora app and APIs as it shifts focus to coding AI",
+      "url": "https://www.neowin.net/news/openai-to-shut-down-sora-app-and-apis-as-it-shifts-focus-to-coding-ai/",
+      "source": "OpenAI"
+    },
     {
       "title": "Introducing Linear Agent",
       "url": "https://linear.app/changelog/2026-03-24-introducing-linear-agent",
