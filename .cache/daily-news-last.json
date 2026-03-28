@@ -1,6 +1,31 @@
 {
-  "lastRun": "2026-03-27T00:20:54Z",
+  "lastRun": "2026-03-28T00:00:00Z",
   "articles": [
+    {
+      "title": "Anthropic accidentally leaked details of a new AI model that poses unprecedented cybersecurity risks",
+      "url": "https://fortune.com/2026/03/27/anthropic-leaked-ai-mythos-cybersecurity-risk/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Issue tracking is dead",
+      "url": "https://linear.app/next",
+      "source": "Linear"
+    },
+    {
+      "title": "Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'",
+      "url": "https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Claude AI Maker Anthropic Considers IPO as Soon as October",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-27/claude-ai-maker-anthropic-said-to-weigh-ipo-as-soon-as-october",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Accenture and Anthropic Team to Help Organizations Secure, Scale AI-Driven Cybersecurity Operations",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-and-anthropic-team-to-help-organizations-secure-scale-ai-driven-cybersecurity-operations",
+      "source": "Anthropic"
+    },
     {
       "title": "OpenAI is shutting down its Sora video generation app",
       "url": "https://edition.cnn.com/2026/03/24/tech/openai-sora-video-app-shutting-down",
