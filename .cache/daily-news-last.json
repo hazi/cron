@@ -1,6 +1,36 @@
 {
-  "lastRun": "2026-03-29T00:00:00Z",
+  "lastRun": "2026-03-30T00:00:00Z",
   "articles": [
+    {
+      "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+      "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Everyone's worried that AI's newest models are a hacker's dream weapon",
+      "url": "https://www.axios.com/2026/03/29/claude-mythos-anthropic-cyberattack-ai-agents",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Hackers Weaponize Claude Code in Mexican Government Cyberattack",
+      "url": "https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic says Chinese hackers used its Claude AI chatbot in cyberattacks",
+      "url": "https://www.cbsnews.com/news/anthropic-chinese-cyberattack-artificial-intelligence/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic thwarts attack on Claude: Why it matters to CIOs",
+      "url": "https://www.informationweek.com/cybersecurity/anthropic-thwarts-cyberattack-on-its-claude-code-here-s-why-it-matters-to-cios",
+      "source": "Anthropic"
+    },
+    {
+      "title": "How hackers turned Claude Code into a semi-autonomous cyber-weapon",
+      "url": "https://bdtechtalks.substack.com/p/how-hackers-turned-claude-code-into",
+      "source": "Anthropic"
+    },
     {
       "title": "Anthropic's madcap March: 14+ launches, 5 outages, and an accidental Claude Mythos leak",
       "url": "https://thenewstack.io/anthropic-march-2026-roundup/",
