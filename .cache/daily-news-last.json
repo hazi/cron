@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-30T00:00:00Z",
+  "lastRun": "2026-03-31T00:00:00Z",
   "articles": [
     {
       "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
@@ -1410,6 +1410,21 @@
       "title": "Product manager is an unfair role. So work unfairly.",
       "url": "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role",
       "source": "Lenny's Newsletter"
+    },
+    {
+      "title": "GPT-5.4 Thinking Model: Practical Updates for Workflows March 2026",
+      "url": "https://theagencyjournal.com/openais-gpt-5-4-the-thinking-model-thats-got-me-scribbling-notes-like-a-mad-woman/",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic's Claude Sees Surge in Subscriptions",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropics-claude-draws-in-record-number-of-consumers/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic faces infrastructure challenges as Claude popularity strains system resources",
+      "url": "https://mlq.ai/news/anthropic-faces-infrastructure-challenges-as-claude-popularity-strains-system-resources/",
+      "source": "Anthropic"
     }
   ]
 }
