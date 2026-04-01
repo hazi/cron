@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-31T00:00:00Z",
+  "lastRun": "2026-03-31T00:20:35Z",
   "articles": [
     {
       "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
@@ -1424,6 +1424,16 @@
     {
       "title": "Anthropic faces infrastructure challenges as Claude popularity strains system resources",
       "url": "https://mlq.ai/news/anthropic-faces-infrastructure-challenges-as-claude-popularity-strains-system-resources/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic admits Claude Code quotas running out too fast",
+      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Anthropic's massive Claude Mythos leak reveals a new AI model that could be a cybersecurity nightmare",
+      "url": "https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare",
       "source": "Anthropic"
     }
   ]
